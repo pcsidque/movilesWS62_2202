@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppEnviaTxt</string>
+    <string name="mail">Ingrese e-mail</string>
+    <string name="enviar">submit</string>
+</resources>
